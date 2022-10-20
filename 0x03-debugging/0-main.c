@@ -7,6 +7,7 @@
  * @i: integer
  * Return: 0
  */
+
 void positive_or_negative(int i)
 {
 	int n;
